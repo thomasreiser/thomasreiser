@@ -3,7 +3,7 @@
 I build cloud infrastructure, Kubernetes operators, Home Assistant stuff and C++/Rust games.
 
 ## 📊 GitHub Stats
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasreiser&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasreiser&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas-blue?logo=linkedin)](https://linkedin.thomas.reiser.zone)
